@@ -1,1 +1,1 @@
-# cinnamon-assignment
+# Cinnamon's Student AI Bootcamp
